@@ -72,7 +72,7 @@ h1{
     background-color: red;
 } 
 
-h2{
+.start{
 
     display: inline;
     font-family: 'Press Start 2P', cursive;
@@ -81,9 +81,3 @@ h2{
     color: yellow;   
 }
 
-.start{
-    display: inline-block;
-    background-color: white;
-    width: 3rem;
-    height: 2rem;
-}
