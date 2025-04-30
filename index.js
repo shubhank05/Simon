@@ -79,6 +79,14 @@ $('body').keydown(
 
 );
 
+$('.start').click(
+    function(){
+        if (level === 0){
+            randomChosenColor = nextSequence();
+        }
+    }
+);
+
 $('.btn').click(
     function(){
         

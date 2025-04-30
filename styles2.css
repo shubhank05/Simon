@@ -72,5 +72,12 @@ h1{
     background-color: red;
 } 
 
+.start{
 
+    display: inline;
+    font-family: 'Press Start 2P', cursive;
+    background-color: black;
+    margin:  5%;
+    color: yellow;   
+}
 
